@@ -787,23 +787,6 @@
 		"leagueidranges": [[18, 18]],
 		"nationalityranges": [[18, 18]]
 	},
-	"tnt_youth": {
-		"youthlink": {
-			"url": "http://dasmagischedreieck.de/tnt/",
-			"filters": ["ownleagueid"]
-		},
-		"youthplayerlistlink": {
-			"url": "http://www.dasmagischedreieck.de/tnt/",
-			"filters": ["ownleagueid"]
-		},
-		"youthplayerdetaillink": {
-			"url": "http://www.dasmagischedreieck.de/tnt/addplayer.php",
-			"filters": ["ownleagueid"]
-		},
-		"ownleagueidranges": [[110, 110]],
-		"title": "Trinidad & Tobago Youth Academy Guide",
-		"img": "http://www.dasmagischedreieck.de/DivBilder/ateam.ico"
-	},
 	"Wage_Reduction_Calculator": {
 		"playerlink": {
 			"url": "http://www.nrgjack.altervista.org/wagereduction.php?wage=[wage]&wagebonus=[wagebonus]&age=[age]",
